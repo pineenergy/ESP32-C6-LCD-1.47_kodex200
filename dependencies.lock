@@ -1,0 +1,24 @@
+dependencies:
+  espressif/led_strip:
+    dependencies: []
+    source:
+      path: C:\Users\user\OneDrive\Datasheet\espressif\ESP32-C6-LCD-1.47_kodex200\components\espressif__led_strip
+      type: local
+    version: 2.5.5
+  idf:
+    source:
+      type: idf
+    version: 5.4.1
+  lvgl/lvgl:
+    dependencies: []
+    source:
+      path: C:\Users\user\OneDrive\Datasheet\espressif\ESP32-C6-LCD-1.47_kodex200\components\lvgl__lvgl
+      type: local
+    version: 8.3.11
+direct_dependencies:
+- espressif/led_strip
+- idf
+- lvgl/lvgl
+manifest_hash: 1fcca6ca0eae49e4d4f3c3a6b3febac7563dec51230b927aa2d02310d4173ffd
+target: esp32c6
+version: 2.0.0
