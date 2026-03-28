@@ -191,3 +191,4 @@ fallback 쪽도 비슷하다. [main/Wireless/Wireless.c](main/Wireless/Wireless.
 ---
 
 > **하편** 에서는 받은 데이터를 LCD에 표시하는 UI 레이아웃과 갱신 로직, RGB LED를 활용한 보조 상태 표시, 그리고 바이브 코딩 방식으로 진행했을 때 임베디드에서 직접 검증이 필요했던 부분을 정리한다.
+
